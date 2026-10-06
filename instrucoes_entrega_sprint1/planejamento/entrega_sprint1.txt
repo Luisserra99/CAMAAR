@@ -1,0 +1,13 @@
+CAMAAR - Entrega da Sprint 1 - Grupo XX
+
+Repositorio do grupo: https://github.com/Luisserra99/CAMAAR
+Branch da sprint: sprint-1
+Pull Request: <colar aqui o link do PR para EngSwCIC/CAMAAR>
+Wiki: https://github.com/Luisserra99/CAMAAR/wiki
+
+Integrantes (nome - matricula):
+Daniel Dezan Baby - 232046097
+Leonardo Tome Sampaio - 222005448
+Luis Eduardo Curi Serra - 251033574
+Tarsila Marques de Oliveira Alves - 242012029
+Weldo Goncalves da Silva Junior - 222014133
